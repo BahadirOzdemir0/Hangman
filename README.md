@@ -1,3 +1,3 @@
-Bu proje benim Bilgisayar Programlama II Dersi Ödev Grubu Final Projemdir. Yalçın ALBAYRAK hocama tüm destekleri için teşekkür ederim.
+Developed a Hangman game in C as a final project for my Computer Programming II course. This project, supervised by Professor Yalçın ALBAYRAK, involves creating a console-based game where players guess letters to reveal a hidden city name. The game features a graphical representation of the hangman, tracking of incorrect guesses, and a victory/defeat notification system. This project helped me strengthen my skills in C programming, handling user input, and using control structures.
 
-C dilinde Kodlanmış adam asmaca oyunudur Algoritma ban aittir
+Technologies Used: C, Console Graphics
