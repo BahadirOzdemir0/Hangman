@@ -4,7 +4,7 @@
 #include <time.h>
 #include <conio.h>
 #include<windows.h>
-//Bahadýr Özdemir Adam Asmaca
+//BahadÄ±r Ã–zdemir Adam Asmaca
 int adam0()
 	{
     	printf("   |-----|  \n");
